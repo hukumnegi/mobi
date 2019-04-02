@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/Banner.jpg"
 layout: landing-page
 heading: Mobile App Development Company
 partners:
@@ -13,9 +13,9 @@ services:
   icon: ''
 sub_heading: Growing with Us
 textline: |-
-  Belkirk College of Engineering
+  **From stone age to mobile age!**
 
-  Ora et Labora
+  **Advanced applications which are easy to use!**
 hero_button:
   text: Learn more
   href: "/about"
