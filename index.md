@@ -35,8 +35,21 @@ menu:
     weight: 1
 
 ---
-Using Swift and Xcode we Develop Native iPhoneapps that Get Million Downloads and Witness Skyrocketing Session Rates from Day One.
+# Mobile & Web App Development Services
 
-Appinventiv is the name behind the 250+ iOS Apps, used and loved by Millions, which are custom made keeping in consideration the specific design and development guidelines related to all the individual platforms - iPad, iPhone, Apple TV, and Apple Watch. Our Reputation as a trusted iPhoneApplication Development Agency has been a ripple effect of all the custom native iOS app services we offer.
+Android, iOS and native apps with multi-platform compatibility and appealing UI/UX is our topmost mobile app development service. With competency in leading languages and frameworks, we identify the best choice for your project. We adapt fast and evolve faster to create impactful apps. Our team of experienced analysts provide concrete recommendations to reduce procedural churn and strengthen your technology ecosystem.
 
-The experiences that we have garnered in developing apps for iPhonefor a vast range of industries and for a user base that belongs to all the different corners of the world, each known for their individual culture have resulted in an understanding that our team of iPhone app developers has now created. An understanding of what the users look for and what they should expect.
+* Mobile app consultancy
+* Android apps
+* iOS apps
+* UI/UX development
+* Backend development
+* Quality assurance
+
+
+* Mobile app integrations
+* App analytics and intelligence
+* App support and maintenance
+* Multilingual Application
+* Android VR apps
+* IoT-enabled Wearable apps
