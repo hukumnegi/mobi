@@ -8,6 +8,10 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: Android App Development
+  description: 'We are the Android App Developers behind 250+ Apps, which are present
+    on millions Android devices of Consumers and Businesses alike. '
+  icon: "/uploads/android.png"
 - heading: ''
   description: ''
   icon: ''
