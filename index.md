@@ -8,6 +8,10 @@ partners:
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
+- heading: 'iPhoneApp Development '
+  description: Using Swift and Xcode we Develop Native iPhoneapps that Get Million
+    Downloads and Witness Skyrocketing Session Rates from Day One.
+  icon: "/uploads/ios.jpeg"
 - heading: Android App Development
   description: 'We are the Android App Developers behind 250+ Apps, which are present
     on millions Android devices of Consumers and Businesses alike. '
